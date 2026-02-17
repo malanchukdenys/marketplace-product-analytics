@@ -1,1 +1,2 @@
-Power BI dashboard file is stored in this folder.
+This folder contains the Power BI dashboard file (.pbix)
+built for marketplace performance analysis.
